@@ -1,0 +1,5 @@
+CDQA/models/
+CDQA/data/
+transfer-learning-conv-ai/personalities
+transfer-learning-conv-ai/__pycache__
+transfer-learning-conv-ai/.git
